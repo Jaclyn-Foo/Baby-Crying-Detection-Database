@@ -1,5 +1,5 @@
 # Baby Crying Detection Database
-Contains samples used for online baby crying detection algorithm testing.
+Contains samples used for offline and online (live) baby crying detection algorithm testing.
 
 There are two folders:
 1. Noisy Samples - audio files of the videos extracted from YouTube
